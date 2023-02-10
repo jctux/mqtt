@@ -1,0 +1,338 @@
+1675967914: mosquitto version 2.0.15 starting
+1675967914: Config loaded from /mosquitto/config/mosquitto.conf.
+1675967914: Opening ipv4 listen socket on port 1883.
+1675967914: Opening ipv6 listen socket on port 1883.
+1675967914: mosquitto version 2.0.15 running
+1675968116: New connection from 127.0.0.1:38559 on port 1883.
+1675968116: New client connected from 127.0.0.1:38559 as frigate-vasarely (p2, c1, k60).
+1675968158: Client frigate-vasarely closed its connection.
+1675968163: New connection from 127.0.0.1:38669 on port 1883.
+1675968163: New client connected from 127.0.0.1:38669 as frigate-vasarely (p2, c1, k60).
+1675968808: mosquitto version 2.0.15 terminating
+1675968808: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1675969688: mosquitto version 2.0.15 starting
+1675969688: Config loaded from /mosquitto/config/mosquitto.conf.
+1675969688: Opening ipv4 listen socket on port 1883.
+1675969688: Opening ipv6 listen socket on port 1883.
+1675969688: mosquitto version 2.0.15 running
+1675969718: New connection from 127.0.0.1:37979 on port 1883.
+1675969718: New client connected from 127.0.0.1:37979 as frigate-vasarely (p2, c1, k60).
+1675970025: mosquitto version 2.0.15 terminating
+1675970025: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1675971867: mosquitto version 2.0.15 starting
+1675971867: Config loaded from /mosquitto/config/mosquitto.conf.
+1675971867: Opening ipv4 listen socket on port 1883.
+1675971867: Opening ipv6 listen socket on port 1883.
+1675971867: mosquitto version 2.0.15 running
+1675971888: New connection from 127.0.0.1:51809 on port 1883.
+1675971888: New client connected from 127.0.0.1:51809 as frigate-vasarely (p2, c1, k60).
+1675973668: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1675975469: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1675977270: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1675979071: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1675980872: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1675982673: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1675982682: mosquitto version 2.0.15 terminating
+1675982682: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1675987549: mosquitto version 2.0.15 starting
+1675987549: Config loaded from /mosquitto/config/mosquitto.conf.
+1675987549: Opening ipv4 listen socket on port 1883.
+1675987549: Opening ipv6 listen socket on port 1883.
+1675987549: mosquitto version 2.0.15 running
+1675990553: mosquitto version 2.0.15 starting
+1675990553: Config loaded from /mosquitto/config/mosquitto.conf.
+1675990553: Opening ipv4 listen socket on port 1883.
+1675990553: Opening ipv6 listen socket on port 1883.
+1675990553: mosquitto version 2.0.15 running
+1675991160: New connection from 127.0.0.1:39619 on port 1883.
+1675991160: New client connected from 127.0.0.1:39619 as frigate-vasarely (p2, c1, k60).
+1675991527: Client frigate-vasarely closed its connection.
+1675991604: New connection from 127.0.0.1:44125 on port 1883.
+1675991604: New client connected from 127.0.0.1:44125 as frigate-vasarely (p2, c1, k60).
+1675991809: Client frigate-vasarely closed its connection.
+1675991956: New connection from 127.0.0.1:60741 on port 1883.
+1675991956: New client connected from 127.0.0.1:60741 as frigate-vasarely (p2, c1, k60).
+1675992069: Client frigate-vasarely closed its connection.
+1675992091: New connection from 127.0.0.1:58689 on port 1883.
+1675992091: New client connected from 127.0.0.1:58689 as frigate-vasarely (p2, c1, k60).
+1675992128: Client frigate-vasarely closed its connection.
+1675992155: New connection from 127.0.0.1:53943 on port 1883.
+1675992155: New client connected from 127.0.0.1:53943 as frigate-vasarely (p2, c1, k60).
+1675992182: mosquitto version 2.0.15 terminating
+1675992182: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1675992379: mosquitto version 2.0.15 starting
+1675992379: Config loaded from /mosquitto/config/mosquitto.conf.
+1675992379: Opening ipv4 listen socket on port 1883.
+1675992379: Opening ipv6 listen socket on port 1883.
+1675992379: mosquitto version 2.0.15 running
+1675992426: New connection from 127.0.0.1:37269 on port 1883.
+1675992426: New client connected from 127.0.0.1:37269 as frigate-vasarely (p2, c1, k60).
+1675994179: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1675995980: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1675997781: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1675998649: Client frigate-vasarely closed its connection.
+1675998748: New connection from 127.0.0.1:53229 on port 1883.
+1675998748: New client connected from 127.0.0.1:53229 as frigate-vasarely (p2, c1, k60).
+1675999582: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1675999806: Client frigate-vasarely closed its connection.
+1675999812: New connection from 127.0.0.1:60637 on port 1883.
+1675999812: New client connected from 127.0.0.1:60637 as frigate-vasarely (p2, c1, k60).
+1676000567: New connection from ::1:35418 on port 1883.
+1676000567: New client connected from ::1:35418 as auto-6B213B44-E432-0A07-D41D-E77F2FD92F3C (p2, c1, k60).
+1676000567: Client auto-6B213B44-E432-0A07-D41D-E77F2FD92F3C disconnected.
+1676001383: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1676003184: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1676004985: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1676006786: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1676008318: Client frigate-vasarely closed its connection.
+1676008322: New connection from 127.0.0.1:52859 on port 1883.
+1676008322: New client connected from 127.0.0.1:52859 as frigate-vasarely (p2, c1, k60).
+1676008536: Client frigate-vasarely closed its connection.
+1676008540: New connection from 127.0.0.1:45377 on port 1883.
+1676008540: New client connected from 127.0.0.1:45377 as frigate-vasarely (p2, c1, k60).
+1676008587: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1676008618: Client frigate-vasarely closed its connection.
+1676008622: New connection from 127.0.0.1:55467 on port 1883.
+1676008622: New client connected from 127.0.0.1:55467 as frigate-vasarely (p2, c1, k60).
+1676010388: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1676012189: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1676013990: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1676015791: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1676017592: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1676019393: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1676021194: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1676022995: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1676024796: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1676026597: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1676028398: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1676030199: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1676032000: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1676033801: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1676035602: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1676035626: Client frigate-vasarely closed its connection.
+1676035630: New connection from 127.0.0.1:43535 on port 1883.
+1676035630: New client connected from 127.0.0.1:43535 as frigate-vasarely (p2, c1, k60).
+1676035915: Client frigate-vasarely closed its connection.
+1676035919: New connection from 127.0.0.1:58633 on port 1883.
+1676035919: New client connected from 127.0.0.1:58633 as frigate-vasarely (p2, c1, k60).
+1676036953: Client frigate-vasarely closed its connection.
+1676036957: New connection from 127.0.0.1:41599 on port 1883.
+1676036957: New client connected from 127.0.0.1:41599 as frigate-vasarely (p2, c1, k60).
+1676037403: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1676038275: mosquitto version 2.0.15 starting
+1676038275: Config loaded from /mosquitto/config/mosquitto.conf.
+1676038275: Opening ipv4 listen socket on port 1883.
+1676038275: Error: Address in use
+1676038580: mosquitto version 2.0.15 terminating
+1676038580: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1676038590: mosquitto version 2.0.15 starting
+1676038590: Config loaded from /mosquitto/config/mosquitto.conf.
+1676038590: Opening ipv4 listen socket on port 1883.
+1676038590: Opening ipv6 listen socket on port 1883.
+1676038590: mosquitto version 2.0.15 running
+1676038595: New connection from 127.0.0.1:48569 on port 1883.
+1676038595: New client connected from 127.0.0.1:48569 as frigate-vasarely (p2, c1, k60).
+1676040074: mosquitto version 2.0.15 starting
+1676040074: Config loaded from /mosquitto/config/mosquitto.conf.
+1676040074: Opening ipv4 listen socket on port 1883.
+1676040074: Opening ipv6 listen socket on port 1883.
+1676040074: mosquitto version 2.0.15 running
+1676040074: New connection from 127.0.0.1:56299 on port 1883.
+1676040074: New client connected from 127.0.0.1:56299 as frigate-vasarely (p2, c1, k60).
+1676040149: mosquitto version 2.0.15 terminating
+1676040149: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1676040150: mosquitto version 2.0.15 starting
+1676040150: Config loaded from /mosquitto/config/mosquitto.conf.
+1676040150: Opening ipv4 listen socket on port 1883.
+1676040150: Opening ipv6 listen socket on port 1883.
+1676040150: mosquitto version 2.0.15 running
+1676040150: New connection from 127.0.0.1:50183 on port 1883.
+1676040150: New client connected from 127.0.0.1:50183 as frigate-vasarely (p2, c1, k60).
+1676040151: Client frigate-vasarely closed its connection.
+1676040155: New connection from 127.0.0.1:44455 on port 1883.
+1676040155: New client connected from 127.0.0.1:44455 as frigate-vasarely (p2, c1, k60).
+1676040226: mosquitto version 2.0.15 terminating
+1676040226: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1676040226: mosquitto version 2.0.15 starting
+1676040226: Config loaded from /mosquitto/config/mosquitto.conf.
+1676040226: Opening ipv4 listen socket on port 1883.
+1676040226: Opening ipv6 listen socket on port 1883.
+1676040226: mosquitto version 2.0.15 running
+1676040227: New connection from 127.0.0.1:44307 on port 1883.
+1676040227: New client connected from 127.0.0.1:44307 as frigate-vasarely (p2, c1, k60).
+1676040245: Client frigate-vasarely closed its connection.
+1676040253: New connection from 127.0.0.1:36855 on port 1883.
+1676040253: New client connected from 127.0.0.1:36855 as frigate-vasarely (p2, c1, k60).
+1676040342: Client frigate-vasarely closed its connection.
+1676040350: New connection from 127.0.0.1:42651 on port 1883.
+1676040350: New client connected from 127.0.0.1:42651 as frigate-vasarely (p2, c1, k60).
+1676040440: Client frigate-vasarely closed its connection.
+1676040448: New connection from 127.0.0.1:50951 on port 1883.
+1676040448: New client connected from 127.0.0.1:50951 as frigate-vasarely (p2, c1, k60).
+1676040467: Client frigate-vasarely closed its connection.
+1676040471: New connection from 127.0.0.1:52749 on port 1883.
+1676040471: New client connected from 127.0.0.1:52749 as frigate-vasarely (p2, c1, k60).
+1676040492: Client frigate-vasarely closed its connection.
+1676040496: New connection from 127.0.0.1:48503 on port 1883.
+1676040496: New client connected from 127.0.0.1:48503 as frigate-vasarely (p2, c1, k60).
+1676040586: Client frigate-vasarely closed its connection.
+1676040594: New connection from 127.0.0.1:38239 on port 1883.
+1676040594: New client connected from 127.0.0.1:38239 as frigate-vasarely (p2, c1, k60).
+1676040683: Client frigate-vasarely closed its connection.
+1676040691: New connection from 127.0.0.1:49417 on port 1883.
+1676040691: New client connected from 127.0.0.1:49417 as frigate-vasarely (p2, c1, k60).
+1676040781: Client frigate-vasarely closed its connection.
+1676040789: New connection from 127.0.0.1:43517 on port 1883.
+1676040789: New client connected from 127.0.0.1:43517 as frigate-vasarely (p2, c1, k60).
+1676040879: Client frigate-vasarely closed its connection.
+1676040887: New connection from 127.0.0.1:40191 on port 1883.
+1676040887: New client connected from 127.0.0.1:40191 as frigate-vasarely (p2, c1, k60).
+1676040977: Client frigate-vasarely closed its connection.
+1676040985: New connection from 127.0.0.1:42559 on port 1883.
+1676040985: New client connected from 127.0.0.1:42559 as frigate-vasarely (p2, c1, k60).
+1676041036: Client frigate-vasarely closed its connection.
+1676041044: New connection from 127.0.0.1:54043 on port 1883.
+1676041044: New client connected from 127.0.0.1:54043 as frigate-vasarely (p2, c1, k60).
+1676041134: Client frigate-vasarely closed its connection.
+1676041142: New connection from 127.0.0.1:42695 on port 1883.
+1676041142: New client connected from 127.0.0.1:42695 as frigate-vasarely (p2, c1, k60).
+1676041232: Client frigate-vasarely closed its connection.
+1676041240: New connection from 127.0.0.1:45883 on port 1883.
+1676041240: New client connected from 127.0.0.1:45883 as frigate-vasarely (p2, c1, k60).
+1676041329: Client frigate-vasarely closed its connection.
+1676041337: New connection from 127.0.0.1:47287 on port 1883.
+1676041337: New client connected from 127.0.0.1:47287 as frigate-vasarely (p2, c1, k60).
+1676041899: Client frigate-vasarely closed its connection.
+1676041934: New connection from 127.0.0.1:53491 on port 1883.
+1676041934: New client connected from 127.0.0.1:53491 as frigate-vasarely (p2, c1, k60).
+1676041956: Client frigate-vasarely closed its connection.
+1676042025: New connection from 127.0.0.1:38193 on port 1883.
+1676042025: New client connected from 127.0.0.1:38193 as frigate-vasarely (p2, c1, k60).
+1676042027: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1676042251: Client frigate-vasarely closed its connection.
+1676042263: New connection from 127.0.0.1:59929 on port 1883.
+1676042263: New client connected from 127.0.0.1:59929 as frigate-vasarely (p2, c1, k60).
+1676042439: mosquitto version 2.0.15 terminating
+1676042439: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1676042470: mosquitto version 2.0.15 starting
+1676042470: Config loaded from /mosquitto/config/mosquitto.conf.
+1676042470: Opening ipv4 listen socket on port 1883.
+1676042470: Opening ipv6 listen socket on port 1883.
+1676042470: mosquitto version 2.0.15 running
+1676042502: New connection from 127.0.0.1:33021 on port 1883.
+1676042502: New client connected from 127.0.0.1:33021 as frigate-vasarely (p2, c1, k60).
+1676042670: Client frigate-vasarely closed its connection.
+1676042674: New connection from 127.0.0.1:53705 on port 1883.
+1676042674: New client connected from 127.0.0.1:53705 as frigate-vasarely (p2, c1, k60).
+1676042685: Client frigate-vasarely closed its connection.
+1676042689: New connection from 127.0.0.1:34739 on port 1883.
+1676042689: New client connected from 127.0.0.1:34739 as frigate-vasarely (p2, c1, k60).
+1676042701: mosquitto version 2.0.15 terminating
+1676042701: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1676042755: mosquitto version 2.0.15 starting
+1676042755: Config loaded from /mosquitto/config/mosquitto.conf.
+1676042755: Opening ipv4 listen socket on port 1883.
+1676042755: Opening ipv6 listen socket on port 1883.
+1676042755: mosquitto version 2.0.15 running
+1676042758: New connection from 127.0.0.1:33283 on port 1883.
+1676042758: New client connected from 127.0.0.1:33283 as frigate-vasarely (p2, c1, k60).
+1676043086: mosquitto version 2.0.15 terminating
+1676043086: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1676043141: mosquitto version 2.0.15 starting
+1676043141: Config loaded from /mosquitto/config/mosquitto.conf.
+1676043141: Opening ipv4 listen socket on port 1883.
+1676043141: Opening ipv6 listen socket on port 1883.
+1676043141: mosquitto version 2.0.15 running
+1676043143: New connection from 127.0.0.1:40731 on port 1883.
+1676043143: New client connected from 127.0.0.1:40731 as frigate-vasarely (p2, c1, k60).
+1676044216: mosquitto version 2.0.15 terminating
+1676044216: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1676044216: mosquitto version 2.0.15 starting
+1676044216: Config loaded from /mosquitto/config/mosquitto.conf.
+1676044216: Opening ipv4 listen socket on port 1883.
+1676044216: Opening ipv6 listen socket on port 1883.
+1676044216: mosquitto version 2.0.15 running
+1676044216: mosquitto version 2.0.15 terminating
+1676044216: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1676044306: mosquitto version 2.0.15 starting
+1676044306: Config loaded from /mosquitto/config/mosquitto.conf.
+1676044306: Opening ipv4 listen socket on port 1883.
+1676044306: Opening ipv6 listen socket on port 1883.
+1676044306: mosquitto version 2.0.15 running
+1676044343: New connection from 10.89.1.2:48744 on port 1883.
+1676044343: New client connected from 10.89.1.2:48744 as frigate-vasarely (p2, c1, k60).
+1676044427: New connection from 10.89.1.2:34618 on port 1883.
+1676044427: New client connected from 10.89.1.2:34618 as auto-2D7E6D89-FEFE-1622-A57A-515AF3D4A3B4 (p2, c1, k60).
+1676044427: Client auto-2D7E6D89-FEFE-1622-A57A-515AF3D4A3B4 disconnected.
+1676045480: New connection from 10.89.1.2:54096 on port 1883.
+1676045480: New client connected from 10.89.1.2:54096 as auto-750F81E7-D0D5-23A0-0566-96348AF04463 (p2, c1, k60).
+1676045480: Client auto-750F81E7-D0D5-23A0-0566-96348AF04463 disconnected.
+1676045499: New connection from 10.89.1.2:58506 on port 1883.
+1676045499: New client connected from 10.89.1.2:58506 as auto-C4862E79-18CA-5EB2-A91A-CDD790BABF78 (p2, c1, k60).
+1676045499: Client auto-C4862E79-18CA-5EB2-A91A-CDD790BABF78 disconnected.
+1676046106: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1676046134: mosquitto version 2.0.15 terminating
+1676046134: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1676046145: mosquitto version 2.0.15 starting
+1676046145: Config loaded from /mosquitto/config/mosquitto.conf.
+1676046145: Opening ipv4 listen socket on port 1883.
+1676046145: Opening ipv6 listen socket on port 1883.
+1676046145: mosquitto version 2.0.15 running
+1676046149: New connection from 10.89.1.3:46928 on port 1883.
+1676046149: New client connected from 10.89.1.3:46928 as frigate-vasarely (p2, c1, k60).
+1676046303: Client frigate-vasarely closed its connection.
+1676046303: mosquitto version 2.0.15 terminating
+1676046303: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1676046358: mosquitto version 2.0.15 starting
+1676046358: Config loaded from /mosquitto/config/mosquitto.conf.
+1676046358: Opening ipv4 listen socket on port 1883.
+1676046358: Opening ipv6 listen socket on port 1883.
+1676046358: mosquitto version 2.0.15 running
+1676046361: New connection from 10.89.1.2:56178 on port 1883.
+1676046361: New client connected from 10.89.1.2:56178 as frigate-vasarely (p2, c1, k60).
+1676047270: mosquitto version 2.0.15 terminating
+1676047270: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1676047277: mosquitto version 2.0.15 starting
+1676047277: Config loaded from /mosquitto/config/mosquitto.conf.
+1676047277: Opening ipv4 listen socket on port 1883.
+1676047277: Opening ipv6 listen socket on port 1883.
+1676047277: mosquitto version 2.0.15 running
+1676047277: New connection from 10.0.2.2:35497 on port 1883.
+1676047277: New client connected from 10.0.2.2:35497 as frigate-vasarely (p2, c1, k60).
+1676048016: mosquitto version 2.0.15 terminating
+1676048016: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1676048048: mosquitto version 2.0.15 starting
+1676048048: Config loaded from /mosquitto/config/mosquitto.conf.
+1676048048: Opening ipv4 listen socket on port 1883.
+1676048048: Opening ipv6 listen socket on port 1883.
+1676048048: mosquitto version 2.0.15 running
+1676048079: New connection from 10.0.2.2:58095 on port 1883.
+1676048079: New client connected from 10.0.2.2:58095 as frigate-vasarely (p2, c1, k60).
+1676048138: mosquitto version 2.0.15 terminating
+1676048138: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1676048138: mosquitto version 2.0.15 starting
+1676048138: Config loaded from /mosquitto/config/mosquitto.conf.
+1676048138: Opening ipv4 listen socket on port 1883.
+1676048138: Opening ipv6 listen socket on port 1883.
+1676048138: mosquitto version 2.0.15 running
+1676048139: New connection from 10.0.2.2:42499 on port 1883.
+1676048139: New client connected from 10.0.2.2:42499 as frigate-vasarely (p2, c1, k60).
+1676048204: mosquitto version 2.0.15 terminating
+1676048204: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1676048204: mosquitto version 2.0.15 starting
+1676048204: Config loaded from /mosquitto/config/mosquitto.conf.
+1676048204: Opening ipv4 listen socket on port 1883.
+1676048204: Opening ipv6 listen socket on port 1883.
+1676048204: mosquitto version 2.0.15 running
+1676048205: New connection from 10.0.2.2:55485 on port 1883.
+1676048205: New client connected from 10.0.2.2:55485 as frigate-vasarely (p2, c1, k60).
+1676048213: mosquitto version 2.0.15 terminating
+1676048213: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1676048214: mosquitto version 2.0.15 starting
+1676048214: Config loaded from /mosquitto/config/mosquitto.conf.
+1676048214: Opening ipv4 listen socket on port 1883.
+1676048214: Opening ipv6 listen socket on port 1883.
+1676048214: mosquitto version 2.0.15 running
+1676048214: New connection from 10.0.2.2:39107 on port 1883.
+1676048214: New client connected from 10.0.2.2:39107 as frigate-vasarely (p2, c1, k60).
+1676050014: Saving in-memory database to /mosquitto/data//mosquitto.db.

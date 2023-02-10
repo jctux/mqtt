@@ -1,0 +1,19 @@
+services:
+  mosquitto:
+    container_name: mqtt
+    privileged: true
+    image: eclipse-mosquitto:latest
+    volumes:
+      - /home/jc/Documents/dev/compose/mqtt/config/:/mosquitto/config/
+      - /home/jc/Documents/dev/compose/mqtt/log/:/mosquitto/log/
+      - data:/mosquitto/data/
+    ports:
+      - 1883:1883
+      - 9001:9001
+    network_mode: "slirp4netns:port_handler=slirp4netns,enable_ipv6=true,allow_host_loopback=true"
+
+volumes:
+  data: ~
+  netdataconfig:
+  netdatalib:
+  netdatacache:
